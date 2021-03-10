@@ -2,7 +2,7 @@
     <img alt="Ignite" title="Ignite" src=".github/ignite.png" />
 </h1>
 
-<h2 align="center"> Desafio 02: Trabalhando com Middlewares </h2>
+<h2 align="center"> Desafio 03: Trabalhando com Middlewares </h2>
 
 </br>
 
